@@ -1,5 +1,15 @@
-<h1>Hi 👋, I'm an aspiring Data scientist </h1>
-<p>Welcome to my GitHub profile! I am a passionate Data Scientist with a keen interest in Machine Learning (ML) and Artificial Intelligence (AI). I enjoy solving complex problems and extracting meaningful insights from data.</p>
+<h1>Hi 👋, Welcome to my Github </h1>
+<p>I am a passionate to-be Data Scientist with a keen interest in Machine Learning (ML) and Artificial Intelligence (AI). I enjoy solving complex problems and extracting meaningful insights from data.</p>
+<h2>About me :</h2>
+<a target="_blank" style="display: inline-block;">
+  I'm from Morocco .
+
+- 🔭 I’m still a student in Data science and Software engineering .
+- 📚 I'm currently doing an Internship at CDM bank .
+- ⚡ In my free time I explore new AI technologies and code some small apps .
+</a>
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
