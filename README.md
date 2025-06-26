@@ -1,12 +1,12 @@
 <h1>Hi 👋, Welcome to my Github </h1>
-<p>I am a passionate to-be Data Scientist with a keen interest in Machine Learning (ML) and Artificial Intelligence (AI). I enjoy solving complex problems and extracting meaningful insights from data.</p>
+<p>I am a passionate Data and Software Engineer with a keen interest in Machine Learning (ML) and Artificial Intelligence (AI). I enjoy solving complex problems and extracting meaningful insights from data, as well as building smart intuitive Web or mobile Applications based on this data .</p>
 <h2>About me :</h2>
 <a target="_blank" style="display: inline-block;">
   I'm from Morocco .
 
-- 🔭 I’m still a student in Data science and Software engineering .
-- 📚 I'm currently doing an Internship at CDM bank .
-- ⚡ In my free time I explore new AI technologies and code some small apps .
+- 🔭 I’m a last year student in Data science and Software engineering .
+- 📚 I'm currently doing an Internship at a bank .
+- ⚡ In my free time I explore new AI technologies and code small apps .
 </a>
 
 
